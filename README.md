@@ -1,0 +1,2 @@
+Using an LM355 temperature sensor and on N76E003 microcontroller, sends temperature values to a serial port read by a python script. Python script asks
+the user for the maximum safe temperature and will display message when the temperature is too high, and when the temperature reaches a safe range again. The python script will also plot the temperature in degrees Celsius and the instantaneous derivative of temperature.
